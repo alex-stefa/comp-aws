@@ -1,0 +1,5 @@
+avs4.web.rice.edu|1
+avs4.web.rice.edu|2
+avs4.web.rice.edu|3
+avs4.web.rice.edu|4
+avs4.web.rice.edu|5
