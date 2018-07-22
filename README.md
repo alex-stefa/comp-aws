@@ -32,7 +32,7 @@ We launch an EC2 instance in each of the 7 [AWS regions](http://aws.amazon.com/a
 
  - [Slides explaining the study](/wiki/slides.md)
  - [Plots included in the slides](/wiki/plots.md)
- - Data set with over 1.9 million data points
+ - [Data set with over 1.9 million data points](https://github.com/alex-stefa/comp-aws/releases/tag/alpha)
 
 ---
 exported from https://code.google.com/archive/p/comp-aws/
