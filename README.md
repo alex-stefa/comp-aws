@@ -28,11 +28,11 @@ We launch an EC2 instance in each of the 7 [AWS regions](http://aws.amazon.com/a
 
 <img src="/wiki/arch.png" width="600px"/>
 
-#### Download
+#### Downloads / Results
 
-Slides explaining the study are available as pptx and images.
-Plots included in the slides can be browsed here.
-Data set with over 1.9 million data points is here.
+ - [Slides explaining the study](/wiki/slides.md)
+ - [Plots included in the slides](/wiki/plots.md)
+ - Data set with over 1.9 million data points
 
 ---
 exported from https://code.google.com/archive/p/comp-aws/
